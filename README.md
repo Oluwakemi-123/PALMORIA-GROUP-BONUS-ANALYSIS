@@ -3,7 +3,7 @@ Performance-based employee bonus dashboard using power BI to analyze salary dist
 
 ##  Project Overview
 
-This report analyzes the salary and bonus distribution for employees at Palmoria Group. The goal was to assess how *department, **performance rating, and **gender* impact both bonus allocations and total compensation.
+This report analyzes the salary and bonus distribution for employees at Palmoria Group. The goal was to assess how department, performance rating, and gender impact both bonus allocations and total compensation.
 
 
 ##  Tools Used
